@@ -40,6 +40,26 @@ I enjoy building web applications that solve real-world problems, creating user-
 
 ---
 
+
+<!-- ===================== PROFESSIONAL EXPERIENCE ===================== -->
+
+## 💼 Professional Experience
+
+### 💻 Full Stack Developer — SEEED IT
+*Employment Duration: [Month Year – Present]*
+
+- 🌐 Developed and maintained web application features using frontend and backend technologies.
+- 🎨 Built responsive and user-friendly interfaces using HTML, CSS, and JavaScript.
+- ⚙️ Worked on backend development using Python and Flask.
+- 🗄️ Integrated SQL databases to store, retrieve, and manage application data.
+- 🔗 Worked with application routes, form handling, and frontend-backend integration.
+- 🐛 Identified and resolved bugs to improve application functionality.
+- 🚀 Used Git and GitHub for version control and source code management.
+- 🤝 Collaborated on development tasks and improved application performance and usability.
+
+---
+
+
 ## 🛠️ Tech Stack & Tools
 
 ### 🌐 Frontend Development
