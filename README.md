@@ -1,137 +1,119 @@
-<!-- ===================== HEADER ===================== -->
+ <!-- ===================== HEADER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=220&section=header&text=Aakash%20Bareth&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Analyst%20%7C%20Data%20Science%20Enthusiast&descAlignY=55&descSize=18"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=220&section=header&text=Akash%20Bareth&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Software%20Engineer&descAlignY=55&descSize=17" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2C5364&center=true&vCenter=true&width=600&lines=Turning+Raw+Data+Into+Real+Insights;1%2B+Year+Experience+as+Data+Analyst;Python+%7C+SQL+%7C+Power+BI+%7C+Excel;B.Tech+CSE+(Data+Science)+%7C+2026" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+Modern+Web+Applications;Frontend+%7C+Backend+%7C+Databases;React+%7C+JavaScript+%7C+Python+%7C+SQL;Turning+Ideas+Into+Working+Applications" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/akash-bareth-36660a420/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/akashbareth2121-wq">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="mailto:YOUR_EMAIL@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Portfolio-2C5364?style=for-the-badge&logo=vercel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=akashbareth2121-wq&label=Profile%20Views&color=2C5364&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=akashbareth2121-wq&label=Profile%20Views&color=58A6FF&style=for-the-badge" />
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+## 👨‍💻 About Me
 
-I'm **Aakash Bareth**, a **Data Analyst with 1+ year of professional experience**, currently pursuing my **B.Tech in Computer Science & Engineering (Data Science)**, graduating in **2026**.
+Hi, I'm **Akash Bareth**, a Computer Science and Engineering graduate specializing in Data Science, with an interest in **Full Stack Development and Software Engineering**.
 
-I turn messy, real-world data into **clear stories and actionable business decisions** — from cleaning raw datasets to building dashboards that leadership actually uses.
+I enjoy building web applications that solve real-world problems, creating user-friendly interfaces, developing backend functionality, and working with databases to manage application data.
 
-- 🔭 Currently working as a **Data Analyst** analyzing structured datasets, trends & KPIs
-- 📊 Focused on **Data Analytics, Visualization & Business Intelligence**
-- 🌱 Deepening my skills in **Machine Learning & Advanced SQL**
-- 💬 Ask me about **Python, SQL, Power BI, Excel & Data Storytelling**
-- ⚡ Fun fact: I believe *"a good chart can explain what 1000 rows of data can't."*
-
----
-
-## 💼 Professional Experience
-
-### 📊 Data Analyst — Star Academy
-*1+ Year Professional Experience*
-
-- 🗂️ Analyzed & organized structured datasets for reporting and business insights
-- 🧹 Performed end-to-end data cleaning and preprocessing
-- 📈 Identified trends, patterns, and key performance indicators (KPIs)
-- 📝 Prepared analytical reports and executive data summaries
-- 🗄️ Used **Excel & SQL** for querying, reporting, and analysis
-- 📊 Built visualizations that communicated insights clearly to stakeholders
-- 🤝 Supported data-driven decision-making across teams
+- 💻 Interested in Full Stack Development and Software Engineering
+- 🌐 Learning and building applications using frontend and backend technologies
+- ⚛️ Exploring React, JavaScript, Python, Flask, and REST APIs
+- 🗄️ Working with SQL databases and application data management
+- 🚀 Building practical projects to improve my development skills
+- 🤝 Open to opportunities, collaboration, and learning from experienced developers
 
 ---
 
 ## 🛠️ Tech Stack & Tools
 
-### 💻 Core & Languages
+### 🌐 Frontend Development
+
 <p>
-  <img src="https://skillicons.dev/icons?i=python,mysql,postgres,git,github,vscode,jupyter" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" />
 </p>
 
-### 📊 Data Analytics & BI
+- HTML5 — Building structured web pages
+- CSS3 — Responsive layouts and styling
+- JavaScript — Interactive features and application logic
+- React.js — Component-based user interfaces
+- Bootstrap — Responsive UI development
+
+### ⚙️ Backend Development
+
 <p>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=python,flask,nodejs,express" />
 </p>
 
-### 🐍 Python for Data Science
+- Python — Backend logic and programming
+- Flask — Building web applications and backend routes
+- Node.js — JavaScript runtime for backend development
+- Express.js — Building backend services and REST APIs
+
+### 🗄️ Databases
+
 <p>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite" />
 </p>
 
-### 🗄️ Databases & Version Control
+- MySQL — Relational database management
+- PostgreSQL — Relational database management
+- MongoDB — NoSQL database
+- SQLite — Lightweight database for small applications
+
+### 🔧 Development Tools
+
 <p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel" />
 </p>
+
+- Git and GitHub — Version control and code collaboration
+- VS Code — Development environment
+- Postman — API testing
+- Vercel and Render — Application deployment
 
 ---
 
-## 📚 Tech Stack Overview
+## 💼 Projects
 
-| Category | Technologies |
-|---|---|
-| 🐍 Programming | Python |
-| 📊 Data Analysis | Pandas, NumPy |
-| 🗄️ Database | SQL, MySQL, PostgreSQL |
-| 📈 Visualization | Power BI, Tableau, Excel, Matplotlib, Seaborn |
-| 🤖 Data Science | Statistics, Machine Learning, Scikit-Learn |
-| 🔧 Version Control | Git, GitHub |
-| 🧰 Dev Tools | VS Code, Jupyter Notebook |
+### 1. Personal Expense Tracker
 
----
+A web application for recording and managing personal expenses.
 
-## 📊 GitHub Analytics
+**Features**
+- Track daily expenses and spending
+- Organize expenses by category
+- Store and manage records in a database
+- Display expense summaries and visual insights
+- Implement user authentication where supported
 
+**Technologies:** Python, Flask, SQLAlchemy, SQLite, HTML, CSS, JavaScript
 
+🔗 [View GitHub Repositories](https://github.com/akashbareth2121-wq)
 
-<p align="center">
-  <img src="https://ghchart.rshah.org/2ECC71/akashbareth2121-wq" alt="Aakash's GitHub Contribution Chart" />
-</p>
+### 2. Sales Analytics Dashboard
 
----
+An interactive dashboard for exploring sales data and business performance.
 
-## 🎯 Open To Opportunities In
+**Features**
+- Display sales KPIs and summary metrics
+- Visualize revenue and sales trends
+- Filter and analyze sales records
+- Present business information through charts and tables
 
-**Data Analytics** • **Business Intelligence** • **Data Science** • **Data Visualization** • **SQL Analytics**
-
----
-
-<p align="center">
-  <i>"Turning data into insights, and insights into impact."</i>
-</p>
-
-<p align="center">
-  ⭐ Thanks for stopping by — let's connect and talk data!
-</p>
-
-<!-- ===================== FOOTER ===================== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=120&section=footer"/>
-</p>
+**Technologies:** Python, Flask, Pandas, SQL,
